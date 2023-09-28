@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8d2e1b9f-d23c-4928-a8a1-9290665bec92" name="zyf">
+        <fileTransfer rootFolder="/home/zyf/code" accessType="SFTP" host="10.40.18.94" port="22" sshConfigId="04838f3b-a096-4388-86dd-ea332f3e5384" sshConfig="zyf@10.40.18.94:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
